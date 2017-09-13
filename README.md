@@ -23,3 +23,8 @@
 ## Nutrition
 
 * [Dirty Secrets of the Food Processing Industry - The Weston A. Price Foundation](https://www.westonaprice.org/health-topics/modern-foods/dirty-secrets-of-the-food-processing-industry/)
+
+## Virtualization
+
+* [Vagrant](https://www.vagrantup.com/)
+* [Docker](https://www.docker.com/)
