@@ -28,3 +28,6 @@
 
 * [Vagrant](https://www.vagrantup.com/)
 * [Docker](https://www.docker.com/)
+* [VirtualBox](https://www.virtualbox.org/)
+* [VMware](https://www.vmware.com/)
+* [Amazon Web Services](https://aws.amazon.com/)
