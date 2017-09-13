@@ -11,3 +11,15 @@
 ## Coding Skills
 
 * [How to write unmaintainable code](https://www.thc.org/root/phun/unmaintain.html)
+
+## Sport
+
+* [The Scientific 7-Minute Workout - The New York Times](https://well.blogs.nytimes.com/2013/05/09/the-scientific-7-minute-workout/)
+
+## IA
+
+* [Online Course Review - the Best Machine Learning Course for Beginners · CodeAhoy](https://codeahoy.com/2017/01/19/online-course-review-the-best-machine-learning-course-for-beginners/)
+
+## Nutrition
+
+* [Dirty Secrets of the Food Processing Industry - The Weston A. Price Foundation](https://www.westonaprice.org/health-topics/modern-foods/dirty-secrets-of-the-food-processing-industry/)
