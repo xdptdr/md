@@ -10,4 +10,4 @@
 
 ## Coding Skills
 
-* [How to write unmaintainable coe](https://www.thc.org/root/phun/unmaintain.html)
+* [How to write unmaintainable code](https://www.thc.org/root/phun/unmaintain.html)
