@@ -31,3 +31,7 @@
 * [VirtualBox](https://www.virtualbox.org/)
 * [VMware](https://www.vmware.com/)
 * [Amazon Web Services](https://aws.amazon.com/)
+
+## Analyse littéraire
+
+* [Méthodologie de l'Analyse Littéraire - Analyse, Dissertation, Commentaire, Compte Rendu](http://www.youscribe.com/BookReader/Index/236047/?documentId=204928)
